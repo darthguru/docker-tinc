@@ -1,4 +1,4 @@
-FROM debian:experimental
+FROM resin/rpi-raspbian:wheezy
 MAINTAINER Jens Erat <email@jenserat.de>
 
 # Remove SUID programs
